@@ -1,4 +1,4 @@
-# Tweet-Emotion-Recognition-with-TensorFlow
+# Tweet_Emotion_Recognition_with_TensorFlow
 
 This project explores emotion recognition in tweets using deep learning. Built using **TensorFlow**, it leverages a labeled dataset of social media text to train a model that classifies emotions like **joy, anger, sadness, fear**, and more.
 
